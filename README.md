@@ -1,2 +1,3 @@
-# bbtt_editor
-FLTK-based editor based on "https://www.fltk.org/doc-1.1/editor.html"
+# bbkilo
+The text editor based on kilo.
+Reference to Build Your Own Text Editor (https://viewsourcecode.org/snaptoken/kilo/)
